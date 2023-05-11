@@ -37,4 +37,4 @@ Run the application:
 java -jar target/ACCWebSearchEngine-<version>.jar
 ````
 ## Credits 👏
-ACC Web Search Engine was created by Dipen Kalal. Special thanks to all the ![contributors](https://github.com/dipenkalal/ACCWebSearchEngine/graphs/contributors) who have helped improve the project.
+ACC Web Search Engine was created by Dipen Kalal. Special thanks to all the [![contributors](https://img.shields.io/badge/contributors-%20-blue)](https://github.com/dipenkalal/ACCWebSearchEngine/graphs/contributors) who have helped improve the project.
